@@ -11,3 +11,7 @@
             My responsibilities were to design and implement different features, clarify requirements with the client and write documentations.
             We were using various frameworks day by day like Spring, Guava, Apache Commons and Mockito.
             We were working in scrum methodology and usually using TDD for the development."
+- project:
+  title: Nutaxi
+  tagline: "During 2016 I had been participating in a self study group at EPAM systems where we aimed to get familiar with the microservices paradigm.
+            We held coding sessions outside of working hours, participated in relevant meetups and had brown bag lunches to watch related lectures."
