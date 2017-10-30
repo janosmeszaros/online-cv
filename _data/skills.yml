@@ -5,6 +5,9 @@
   name: Continous integration and deployment
   level: 75%
 - skill:
+  name: Atlassian products (JIRA, Bamboo, Confluence)
+  level: 75%
+- skill:
   name: Spring Boot
   level: 60%
 - skill:
@@ -13,6 +16,3 @@
 - skill:
   name: Angular
   level: 20%
-- skill:
-    name: Atlassian products
-    level: 75%
