@@ -13,7 +13,7 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Janos Meszaros
 tagline: Software Engineer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: Janos_Gyula_Meszaros_tiny.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: ''
 
 #sidebar links
