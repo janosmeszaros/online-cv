@@ -1,28 +1,28 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Software Engineer
+  time: 2016 - Present
+  company: Asset Control, Heerenveen, Netherlands
+  details: "I've been working as JAVA developer at my current company where I'm responsible to maintain our code base and fix bugs for our extensive client base.
+            Recently we started the development of our new product applying technologies like Spring Boot, Kafka and using Bamboo as continuous integration tool."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Software Engineer
+  time: 2015 October - 2015 December
+  company: EPAM Systems, Zurich, Switzerland
+  details: "For three months I was working onsite for our Swiss investment banking client to kick off a crucial project,
+            where I needed to get familiar with the existing legacy systems while analyzing the new requirements. Also during these
+            months we started the development where I played a leading role."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Software Engineer
+  time: 2012 July - 2016 December
+  company: EPAM Systems, Budapest, Hungary
+  details: "I was working in a cross functional team of about 15 people, with BAs, testers and developers
+            included. My main responsibilities were designing and coordinating the implementation of new services while working closely with the clients.
+            Our technology stack contained libraries like Google Guava, Spring Boot, Apache Commons, assertj and tools like
+            Maven, Bamboo or Intellij IDEA."
+- experience:
+  role: Junior Software Engineer
+  time: 2011 - 2012
+  company: Emke kft., Szeged, Hungary
+  details: "We were developing a software for cash registers which were used on buses. 
+            The main program was written in C# and ran on embedded linux, whilst I was responsible for the front end part of the software to display the data from the monitored cash registers. 
+            This system was created using Silverlight and Visual Studio."
