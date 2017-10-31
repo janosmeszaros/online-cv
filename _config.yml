@@ -24,7 +24,7 @@ github: janosmeszaros
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
-# analytics: UA-83979019-1
+analytics: UA-109063530-1
 
 # Build settings
 encoding: "utf-8"

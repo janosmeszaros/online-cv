@@ -6,11 +6,9 @@
   tagline: "In this project on bench we've formed a group of two people and got familiar with Android while we were developing a small income/expense register application using different Android based frameworks like Roboelectric or Robojuice and used Git as version control system.
             We've also started to create a webpage for this application using Spring MVC and Hibernate."
 - project:
-  title: FX investor
-  tagline: "This project was about to create post trade services and other web services to a Swiss investment bank. 
-            My responsibilities were to design and implement different features, clarify requirements with the client and write documentations.
-            We were using various frameworks day by day like Spring, Guava, Apache Commons and Mockito.
-            We were working in scrum methodology and usually using TDD for the development."
+  title: Aramis
+  tagline: "During my MSc studies I had to create a thesis which was about to create an Android application what was able to remove moving objects from series of pictures which were created by the device's camera. 
+            For this, I've used several libraries like Apache Commons, Guava or android-jhlabs."
 - project:
   title: Nutaxi
   tagline: "During 2016 I had been participating in a self study group at EPAM systems where we aimed to get familiar with the microservices paradigm.
